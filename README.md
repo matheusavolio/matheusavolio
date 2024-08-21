@@ -1,4 +1,4 @@
-## Olá! 👋, eu sou o Matheus Avolio, sou de São Paulo/SP e estudante de Gestão em Tecnologia da Informação.
+## Olá! 👋, eu sou o Matheus Avolio.
 #### Aqui é onde armazeno meus estudos, exercícios e projetos pessoais. Atualmente, estou estudando com o objetivo de conseguir um estágio em Desenvolvimento Backend.
 ### Contato
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@avolio#0930/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusavolio/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:m.avolio@hotmail.com)
