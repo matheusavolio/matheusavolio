@@ -12,7 +12,3 @@
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusavolio&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
-![snake gif](https://github.com/matheusavolio/matheusavolio/blob/output/github-contribution-grid-snake.gif/background=000)
-
