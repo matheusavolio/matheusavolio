@@ -1,5 +1,5 @@
 ## Olá! 👋, eu sou o Matheus Avolio.
-#### Aqui é onde armazeno meus estudos, exercícios e projetos pessoais. Atualmente, estou estudando com o objetivo de conseguir um estágio em Desenvolvimento Backend.
+#### Aqui é onde armazeno meus estudos, exercícios e projetos pessoais. Atualmente, estou estudando com o objetivo de atuar como Engnheiro de Dados
 
 
 ### Contato
